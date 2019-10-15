@@ -40,4 +40,3 @@ const colors = [
 const getColors = () => colors;
 
 export default { getColors };
-// now whenever I comment getColors it will pull back the full array
